@@ -1,0 +1,8 @@
+[user]
+	name = yangkun
+	email = yangkun123@hztianque.com
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
